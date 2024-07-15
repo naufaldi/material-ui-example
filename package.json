@@ -1,0 +1,26 @@
+{
+  "name": "material-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mui/material": "^5.16.1",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "babel-plugin-styled-components": "^2.1.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
